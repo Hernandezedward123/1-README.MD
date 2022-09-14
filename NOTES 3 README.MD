@@ -1,4 +1,4 @@
-#CIT 114: Intro to Cloud Computing with DevOps
+# CIT 114: Intro to Cloud Computing with DevOps
 ## 1) Cloud Advantages 
 - Pays as you go, adapting the budget on what you need. This can help reduce risk and missing capacity. 
 - You can reserve what you need and there are three ways to pay which are; all in front, partial and no upfront.
